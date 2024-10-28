@@ -1,7 +1,7 @@
 class Main{
 
 psvm(){
-sop("hello java programmers kk");
+sop("hello java programmers");
 }
 
 }
